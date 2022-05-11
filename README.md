@@ -1,4 +1,4 @@
-### Hey, I'm Carmen :wave:
+### Hey, I'm Carmen 👋🏻
 
 🎓 BSc in Fundamental Physics at UCM
 
