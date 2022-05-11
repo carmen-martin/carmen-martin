@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Carmen 👋
 
-<!--
-**carmen-martin/carmen-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Fundamental Physics at UCM
 
-Here are some ideas to get you started:
+📚 I’m currently studying MSc in Physics of Data at UNIPD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: Basketball player and baking lover
+
+
+<a href="https://www.linkedin.com/in/carmen-martin-turrero/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+</p>
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
