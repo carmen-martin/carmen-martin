@@ -1,6 +1,6 @@
 ### Hey, I'm Carmen 👋🏻
 
-🎓 BSc in Fundamental Physics at UCM
+🎓 Graduated in Fundamental Physics at UCM
 
 📚 I’m currently studying MSc in Physics of Data at UNIPD
 
