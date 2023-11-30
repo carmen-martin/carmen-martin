@@ -5,9 +5,9 @@
 
 #### Machine Learning Specialist 
 
-📚 MSc in Physics of Data at UNIPD
+🎓 MSc in Physics of Data at UNIPD
     
-🎓 Graduated in Fundamental Physics at UCM
+🎓 BSc in Fundamental Physics at UCM
 
 ⚡ Fun fact: Basketball player and baking lover
 
